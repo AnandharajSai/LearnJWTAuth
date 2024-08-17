@@ -2,6 +2,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace LearnJWTAuth.Controllers
 {
+    //Controller for weather
     [ApiController]
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
